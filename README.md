@@ -17,12 +17,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</p>
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
