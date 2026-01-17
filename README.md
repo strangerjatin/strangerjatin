@@ -10,7 +10,7 @@
 - 🔥 Interested in **Full Stack Development & Software Engineering**  
 - 🧠 Currently focusing on **DSA + Projects**  
 - 🚀 Goal: Become a **Professional Software Developer**  
-- 📫 Reach me at: **your_email@gmail.com**
+- 📫 Reach me at: **jatinshar1401@gmail.com**
 
 ---
 
@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=strangerjatin&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strangerjatin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=strangerjatin&theme=darkhub" />
 </p>
 
 ---
@@ -73,10 +73,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/strangerjatin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/strangerjatin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
