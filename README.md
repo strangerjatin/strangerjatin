@@ -2,8 +2,8 @@
 <h3 align="center">MCA Student | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+MERN+Stack+%7C+DSA;Full+Stack+Developer+in+Making;Always+Learning+New+Things" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=CPP+%7C+MERN+Stack+%7C+DSA;Full+Stack+Developer+in+Making;Always+Learning+New+Things" />
+</p> 
 
 ---
 
