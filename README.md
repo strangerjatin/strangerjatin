@@ -11,7 +11,7 @@
 
 <p align="center">
 🎓 MCA 2nd Year Student <br>
-💻 Learning <b>MERN Stack, Java, DSA, DBMS, OS</b> <br>
+💻 Learning <b>MERN Stack, C++, DSA, DBMS, OS</b> <br>
 🔥 Interested in <b>Full Stack Development & Software Engineering</b> <br>
 🚀 Goal: Become a <b>Professional Software Developer</b> <br>
 </p>
@@ -34,57 +34,34 @@
 
 ### 💻 Programming Languages
 
-<!-- <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-</p> -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="55"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
-</p>
-<!-- Programming Languages -->
-<!-- <table align="center" width="100%">
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 15px; padding: 20px;">
-
-<h2 style="color: white;">💻 Programming Languages</h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
-
-</td>
-</tr>
-</table>
-
-<br> -->
 ---
 
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="55"/>
 </p>
+
 
 ---
 
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="55"/>
 </p>
 
 ---
@@ -92,9 +69,9 @@
 ### ⚙️ Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-8630395.png?f=webp" width="48" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="55"/>
 </p>
 
 ---
@@ -120,7 +97,7 @@ Here are some of my best projects 👇
 <p align="center">
 🔹 Collection of important DSA problems & solutions  
 <br>
-🔗 <a href="https://github.com/strangerjatin/DSA">GitHub Repo</a>
+🔗 <a href="https://github.com/strangerjatin/DSA-question">GitHub Repo</a>
 </p>
 
 ---
@@ -134,24 +111,6 @@ Here are some of my best projects 👇
 
 ---
 
-### 🧠 Java OOPS Projects
-<p align="center">
-🔹 OOPS, Core Java, Mini Projects  
-<br>
-🔗 <a href="https://github.com/strangerjatin/Java-OOPS">GitHub Repo</a>
-</p>
-
----
-
-## 🚀 My Focus
-
-<p align="center">
-✅ DSA in C++ & Java <br>
-✅ MERN Stack Projects <br>
-✅ Core CS: OS, DBMS, CN, OOPS <br>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -164,7 +123,6 @@ Here are some of my best projects 👇
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
----
 
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
